@@ -255,12 +255,18 @@ void loop() {
 ```
 # CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-05-24 at 14 56 26_70eccac7](https://github.com/user-attachments/assets/80922644-705a-414b-a970-8279c587f5e8)
+
 # OUTPUT:
-![alt text](<Screenshot 2025-05-24 115235.png>)
 
-![alt text](<Screenshot 2025-05-24 115054.png>)
+![image](https://github.com/user-attachments/assets/deccde32-2865-49ea-acba-5ce0ce30f8af)
 
-![alt text](<Screenshot 2025-05-24 115157.png>)
+
+![image](https://github.com/user-attachments/assets/b6baecdf-f6b4-4dc1-9326-8545e8b9b355)
+
+![image](https://github.com/user-attachments/assets/abcb3310-091a-4423-9bb7-dd5a3d1b7926)
+
+
 # RESULT:
 
 The temperature sensor was successfully interfaced with the IoT controller (Arduino), and the temperature/humidity data was accurately measured, encoded for LoRaWAN, transmitted via a LoRa module to a LoRaWAN gateway, and uploaded to the cloud for real-time distance monitoring through a cloud dashboard.
